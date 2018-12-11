@@ -1,0 +1,7 @@
+lxml-4.2.5-cp37-cp37m-win_amd64.whl
+scrapy
+pypiwin32
+request
+requests
+ipython
+django
